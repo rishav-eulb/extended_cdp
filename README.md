@@ -1,4 +1,4 @@
-# 🚀 Blockchain Operations Module - CDP SDK
+# Blockchain Operations Module - CDP SDK
 
 A comprehensive TypeScript module for blockchain interactions using Coinbase Developer Platform (CDP) SDK. This module provides easy-to-use functions for ENS registration, token transfers, approvals, and transaction management on EVM-compatible chains.
 
